@@ -1,17 +1,12 @@
-<p align="left"> 
-  <a href="https://github.com/kazuhe/kazuhe/">
-    <img src="https://komarev.com/ghpvc/?username=kazuhe" alt="kazuhe" />
-  </a>
-  <a href="http://twitter.com/kazuhe__">
-    <img height="20" src="https://img.shields.io/twitter/follow/kazuhe__?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/kazuhe">
-    <img height="20" src="https://img.shields.io/github/followers/kazuhe?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+```
 
-## Hi 👋, I'm kazuhe
-A JavaScript engineer from Japan.
+ _  _   _      ___ |          _                        _          
+| || | (_)    |_ _|  _ __    | |__  __ _   ___  _  _  | |_    ___ 
+| __ | | |     | |  | '  \   | / / / _` | |_ / | || | | ' \  / -_)
+|_||_| |_| |  |___| |_|_|_|  |_\_\ \__,_| /__|  \_,_| |_||_| \___|
+                                                    
+```
+Hi, I'm kazuhe — a JavaScript engineer from Japan. 🌐 I care about Universal JavaScript.
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -19,4 +14,4 @@ A JavaScript engineer from Japan.
 
 - 📝 I regularly write articles on [https://zenn.dev/kazuhe](https://zenn.dev/kazuhe)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kazuhe&show_icons=true&locale=en" alt="kazuhe" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kazuhe&show_icons=true&locale=en" alt="kazuhe" /></p>
