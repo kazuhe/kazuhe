@@ -19,6 +19,4 @@ A JavaScript engineer from Japan.
 
 - 📝 I regularly write articles on [https://zenn.dev/kazuhe](https://zenn.dev/kazuhe)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazuhe&show_icons=true&locale=en&layout=compact" alt="kazuhe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazuhe&show_icons=true&locale=en" alt="kazuhe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kazuhe&show_icons=true&locale=en" alt="kazuhe" /></p>
